@@ -1,0 +1,10 @@
+# Ignore frontend dependencies and builds from the root
+frontend/node_modules/
+frontend/.next/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env

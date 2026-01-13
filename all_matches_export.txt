@@ -1,0 +1,383 @@
+=== FULL MATCH LIST (380 matches) ===
+Date            | Home Team            vs Away Team            | Score
+----------------------------------------------------------------------
+2024-05-19      | Arsenal              vs Everton              | 2-1  
+2024-05-19      | Brentford            vs Newcastle United     | 2-4  
+2024-05-19      | Brighton & Hove Albion vs Manchester United    | 0-2  
+2024-05-19      | Burnley              vs Nottingham Forest    | 1-2  
+2024-05-19      | Chelsea              vs Bournemouth          | 2-1  
+2024-05-19      | Crystal Palace       vs Aston Villa          | 5-0  
+2024-05-19      | Liverpool            vs Wolverhampton        | 2-0  
+2024-05-19      | Luton Town           vs Fulham               | 2-4  
+2024-05-19      | Manchester City      vs West Ham United      | 3-1  
+2024-05-19      | Sheffield United     vs Tottenham Hotspur    | 0-3  
+2024-05-15      | Manchester United    vs Newcastle United     | 3-2  
+2024-05-15      | Brighton & Hove Albion vs Chelsea              | 1-2  
+2024-05-14      | Tottenham Hotspur    vs Manchester City      | 0-2  
+2024-05-13      | Aston Villa          vs Liverpool            | 3-3  
+2024-05-12      | Manchester United    vs Arsenal              | 0-1  
+2024-05-11      | Nottingham Forest    vs Chelsea              | 2-3  
+2024-05-11      | Bournemouth          vs Brentford            | 1-2  
+2024-05-11      | Everton              vs Sheffield United     | 1-0  
+2024-05-11      | Newcastle United     vs Brighton & Hove Albion | 1-1  
+2024-05-11      | Tottenham Hotspur    vs Burnley              | 2-1  
+2024-05-11      | West Ham United      vs Luton Town           | 3-1  
+2024-05-11      | Wolverhampton        vs Crystal Palace       | 1-3  
+2024-05-11      | Fulham               vs Manchester City      | 0-4  
+2024-05-06      | Crystal Palace       vs Manchester United    | 4-0  
+2024-05-05      | Liverpool            vs Tottenham Hotspur    | 4-2  
+2024-05-05      | Brighton & Hove Albion vs Aston Villa          | 1-0  
+2024-05-05      | Chelsea              vs West Ham United      | 5-0  
+2024-05-04      | Manchester City      vs Wolverhampton        | 5-1  
+2024-05-04      | Brentford            vs Fulham               | 0-0  
+2024-05-04      | Burnley              vs Newcastle United     | 1-4  
+2024-05-04      | Sheffield United     vs Nottingham Forest    | 1-3  
+2024-05-04      | Arsenal              vs Bournemouth          | 3-0  
+2024-05-03      | Luton Town           vs Everton              | 1-1  
+2024-05-02      | Chelsea              vs Tottenham Hotspur    | 2-0  
+2024-04-28      | Nottingham Forest    vs Manchester City      | 0-2  
+2024-04-28      | Bournemouth          vs Brighton & Hove Albion | 3-0  
+2024-04-28      | Tottenham Hotspur    vs Arsenal              | 2-3  
+2024-04-27      | Aston Villa          vs Chelsea              | 2-2  
+2024-04-27      | Everton              vs Brentford            | 1-0  
+2024-04-27      | Fulham               vs Crystal Palace       | 1-1  
+2024-04-27      | Manchester United    vs Burnley              | 1-1  
+2024-04-27      | Newcastle United     vs Sheffield United     | 5-1  
+2024-04-27      | Wolverhampton        vs Luton Town           | 2-1  
+2024-04-27      | West Ham United      vs Liverpool            | 2-2  
+2024-04-25      | Brighton & Hove Albion vs Manchester City      | 0-4  
+2024-04-24      | Crystal Palace       vs Newcastle United     | 2-0  
+2024-04-24      | Everton              vs Liverpool            | 2-0  
+2024-04-24      | Manchester United    vs Sheffield United     | 4-2  
+2024-04-24      | Wolverhampton        vs Bournemouth          | 0-1  
+2024-04-23      | Arsenal              vs Chelsea              | 5-0  
+2024-04-21      | Fulham               vs Liverpool            | 1-3  
+2024-04-21      | Aston Villa          vs Bournemouth          | 3-1  
+2024-04-21      | Crystal Palace       vs West Ham United      | 5-2  
+2024-04-21      | Everton              vs Nottingham Forest    | 2-0  
+2024-04-20      | Wolverhampton        vs Arsenal              | 0-2  
+2024-04-20      | Luton Town           vs Brentford            | 1-5  
+2024-04-20      | Sheffield United     vs Burnley              | 1-4  
+2024-04-15      | Chelsea              vs Everton              | 6-0  
+2024-04-14      | Arsenal              vs Aston Villa          | 0-2  
+2024-04-14      | Liverpool            vs Crystal Palace       | 0-1  
+2024-04-14      | West Ham United      vs Fulham               | 0-2  
+2024-04-13      | Bournemouth          vs Manchester United    | 2-2  
+2024-04-13      | Brentford            vs Sheffield United     | 2-0  
+2024-04-13      | Burnley              vs Brighton & Hove Albion | 1-1  
+2024-04-13      | Manchester City      vs Luton Town           | 5-1  
+2024-04-13      | Nottingham Forest    vs Wolverhampton        | 2-2  
+2024-04-13      | Newcastle United     vs Tottenham Hotspur    | 4-0  
+2024-04-07      | Tottenham Hotspur    vs Nottingham Forest    | 3-1  
+2024-04-07      | Sheffield United     vs Chelsea              | 2-2  
+2024-04-07      | Manchester United    vs Liverpool            | 2-2  
+2024-04-06      | Brighton & Hove Albion vs Arsenal              | 0-3  
+2024-04-06      | Aston Villa          vs Brentford            | 3-3  
+2024-04-06      | Everton              vs Burnley              | 1-0  
+2024-04-06      | Fulham               vs Newcastle United     | 0-1  
+2024-04-06      | Luton Town           vs Bournemouth          | 2-1  
+2024-04-06      | Wolverhampton        vs West Ham United      | 1-2  
+2024-04-06      | Crystal Palace       vs Manchester City      | 2-4  
+2024-04-04      | Chelsea              vs Manchester United    | 4-3  
+2024-04-04      | Liverpool            vs Sheffield United     | 3-1  
+2024-04-03      | Manchester City      vs Aston Villa          | 4-1  
+2024-04-03      | Arsenal              vs Luton Town           | 2-0  
+2024-04-03      | Brentford            vs Brighton & Hove Albion | 0-0  
+2024-04-02      | West Ham United      vs Tottenham Hotspur    | 1-1  
+2024-04-02      | Bournemouth          vs Crystal Palace       | 1-0  
+2024-04-02      | Burnley              vs Wolverhampton        | 1-1  
+2024-04-02      | Newcastle United     vs Everton              | 1-1  
+2024-04-02      | Nottingham Forest    vs Fulham               | 3-1  
+2024-03-31      | Manchester City      vs Arsenal              | 0-0  
+2024-03-31      | Liverpool            vs Brighton & Hove Albion | 2-1  
+2024-03-30      | Brentford            vs Manchester United    | 1-1  
+2024-03-30      | Aston Villa          vs Wolverhampton        | 2-0  
+2024-03-30      | Bournemouth          vs Everton              | 2-1  
+2024-03-30      | Chelsea              vs Burnley              | 2-2  
+2024-03-30      | Nottingham Forest    vs Crystal Palace       | 1-1  
+2024-03-30      | Sheffield United     vs Fulham               | 3-3  
+2024-03-30      | Tottenham Hotspur    vs Luton Town           | 2-1  
+2024-03-30      | Newcastle United     vs West Ham United      | 4-3  
+2024-03-17      | West Ham United      vs Aston Villa          | 1-1  
+2024-03-16      | Fulham               vs Tottenham Hotspur    | 3-0  
+2024-03-16      | Burnley              vs Brentford            | 2-1  
+2024-03-16      | Luton Town           vs Nottingham Forest    | 1-1  
+2024-03-13      | Bournemouth          vs Luton Town           | 4-3  
+2024-03-11      | Chelsea              vs Newcastle United     | 3-2  
+2024-03-10      | Liverpool            vs Manchester City      | 1-1  
+2024-03-10      | Brighton & Hove Albion vs Nottingham Forest    | 1-0  
+2024-03-10      | West Ham United      vs Burnley              | 2-2  
+2024-03-10      | Aston Villa          vs Tottenham Hotspur    | 0-4  
+2024-03-09      | Arsenal              vs Brentford            | 2-1  
+2024-03-09      | Bournemouth          vs Sheffield United     | 2-2  
+2024-03-09      | Crystal Palace       vs Luton Town           | 1-1  
+2024-03-09      | Wolverhampton        vs Fulham               | 2-1  
+2024-03-09      | Manchester United    vs Everton              | 2-0  
+2024-03-04      | Sheffield United     vs Arsenal              | 0-6  
+2024-03-03      | Manchester City      vs Manchester United    | 3-1  
+2024-03-03      | Burnley              vs Bournemouth          | 0-2  
+2024-03-02      | Luton Town           vs Aston Villa          | 2-3  
+2024-03-02      | Brentford            vs Chelsea              | 2-2  
+2024-03-02      | Everton              vs West Ham United      | 1-3  
+2024-03-02      | Fulham               vs Brighton & Hove Albion | 3-0  
+2024-03-02      | Newcastle United     vs Wolverhampton        | 3-0  
+2024-03-02      | Nottingham Forest    vs Liverpool            | 0-1  
+2024-03-02      | Tottenham Hotspur    vs Crystal Palace       | 3-1  
+2024-02-26      | West Ham United      vs Brentford            | 4-2  
+2024-02-25      | Wolverhampton        vs Sheffield United     | 1-0  
+2024-02-24      | Arsenal              vs Newcastle United     | 4-1  
+2024-02-24      | Bournemouth          vs Manchester City      | 0-1  
+2024-02-24      | Aston Villa          vs Nottingham Forest    | 4-2  
+2024-02-24      | Brighton & Hove Albion vs Everton              | 1-1  
+2024-02-24      | Crystal Palace       vs Burnley              | 3-0  
+2024-02-24      | Manchester United    vs Fulham               | 1-2  
+2024-02-21      | Liverpool            vs Luton Town           | 4-1  
+2024-02-20      | Manchester City      vs Brentford            | 1-0  
+2024-02-19      | Everton              vs Crystal Palace       | 1-1  
+2024-02-18      | Luton Town           vs Manchester United    | 1-2  
+2024-02-18      | Sheffield United     vs Brighton & Hove Albion | 0-5  
+2024-02-17      | Manchester City      vs Chelsea              | 1-1  
+2024-02-17      | Burnley              vs Arsenal              | 0-5  
+2024-02-17      | Fulham               vs Aston Villa          | 1-2  
+2024-02-17      | Newcastle United     vs Bournemouth          | 2-2  
+2024-02-17      | Nottingham Forest    vs West Ham United      | 2-0  
+2024-02-17      | Tottenham Hotspur    vs Wolverhampton        | 1-2  
+2024-02-17      | Brentford            vs Liverpool            | 1-4  
+2024-02-12      | Crystal Palace       vs Chelsea              | 1-3  
+2024-02-11      | Aston Villa          vs Manchester United    | 1-2  
+2024-02-11      | West Ham United      vs Arsenal              | 0-6  
+2024-02-10      | Nottingham Forest    vs Newcastle United     | 2-3  
+2024-02-10      | Fulham               vs Bournemouth          | 3-1  
+2024-02-10      | Liverpool            vs Burnley              | 3-1  
+2024-02-10      | Luton Town           vs Sheffield United     | 1-3  
+2024-02-10      | Tottenham Hotspur    vs Brighton & Hove Albion | 2-1  
+2024-02-10      | Wolverhampton        vs Brentford            | 0-2  
+2024-02-10      | Manchester City      vs Everton              | 2-0  
+2024-02-05      | Brentford            vs Manchester City      | 1-3  
+2024-02-04      | Arsenal              vs Liverpool            | 3-1  
+2024-02-04      | Bournemouth          vs Nottingham Forest    | 1-1  
+2024-02-04      | Chelsea              vs Wolverhampton        | 2-4  
+2024-02-04      | Manchester United    vs West Ham United      | 3-0  
+2024-02-03      | Sheffield United     vs Aston Villa          | 0-5  
+2024-02-03      | Brighton & Hove Albion vs Crystal Palace       | 4-1  
+2024-02-03      | Burnley              vs Fulham               | 2-2  
+2024-02-03      | Newcastle United     vs Luton Town           | 4-4  
+2024-02-03      | Everton              vs Tottenham Hotspur    | 2-2  
+2024-02-01      | Wolverhampton        vs Manchester United    | 3-4  
+2024-02-01      | West Ham United      vs Bournemouth          | 1-1  
+2024-01-31      | Liverpool            vs Chelsea              | 4-1  
+2024-01-31      | Manchester City      vs Burnley              | 3-1  
+2024-01-31      | Tottenham Hotspur    vs Brentford            | 3-2  
+2024-01-30      | Aston Villa          vs Newcastle United     | 1-3  
+2024-01-30      | Crystal Palace       vs Sheffield United     | 3-2  
+2024-01-30      | Fulham               vs Everton              | 0-0  
+2024-01-30      | Luton Town           vs Brighton & Hove Albion | 4-0  
+2024-01-30      | Nottingham Forest    vs Arsenal              | 1-2  
+2024-01-22      | Brighton & Hove Albion vs Wolverhampton        | 0-0  
+2024-01-21      | Bournemouth          vs Liverpool            | 0-4  
+2024-01-21      | Sheffield United     vs West Ham United      | 2-2  
+2024-01-20      | Brentford            vs Nottingham Forest    | 3-2  
+2024-01-20      | Arsenal              vs Crystal Palace       | 5-0  
+2024-01-14      | Manchester United    vs Tottenham Hotspur    | 2-2  
+2024-01-14      | Everton              vs Aston Villa          | 0-0  
+2024-01-13      | Newcastle United     vs Manchester City      | 2-3  
+2024-01-13      | Chelsea              vs Fulham               | 1-0  
+2024-01-12      | Burnley              vs Luton Town           | 1-1  
+2024-01-02      | West Ham United      vs Brighton & Hove Albion | 0-0  
+2024-01-01      | Liverpool            vs Newcastle United     | 4-2  
+2023-12-31      | Fulham               vs Arsenal              | 2-1  
+2023-12-31      | Tottenham Hotspur    vs Bournemouth          | 3-1  
+2023-12-30      | Nottingham Forest    vs Manchester United    | 2-1  
+2023-12-30      | Aston Villa          vs Burnley              | 3-2  
+2023-12-30      | Crystal Palace       vs Brentford            | 3-1  
+2023-12-30      | Manchester City      vs Sheffield United     | 2-0  
+2023-12-30      | Wolverhampton        vs Everton              | 3-0  
+2023-12-30      | Luton Town           vs Chelsea              | 2-3  
+2023-12-28      | Arsenal              vs West Ham United      | 0-2  
+2023-12-28      | Brighton & Hove Albion vs Tottenham Hotspur    | 4-2  
+2023-12-27      | Everton              vs Manchester City      | 1-3  
+2023-12-27      | Brentford            vs Wolverhampton        | 1-4  
+2023-12-27      | Chelsea              vs Crystal Palace       | 2-1  
+2023-12-26      | Manchester United    vs Aston Villa          | 3-2  
+2023-12-26      | Burnley              vs Liverpool            | 0-2  
+2023-12-26      | Bournemouth          vs Fulham               | 3-0  
+2023-12-26      | Sheffield United     vs Luton Town           | 2-3  
+2023-12-26      | Newcastle United     vs Nottingham Forest    | 1-3  
+2023-12-24      | Wolverhampton        vs Chelsea              | 2-1  
+2023-12-23      | Liverpool            vs Arsenal              | 1-1  
+2023-12-23      | Fulham               vs Burnley              | 0-2  
+2023-12-23      | Luton Town           vs Newcastle United     | 1-0  
+2023-12-23      | Nottingham Forest    vs Bournemouth          | 2-3  
+2023-12-23      | Tottenham Hotspur    vs Everton              | 2-1  
+2023-12-23      | West Ham United      vs Manchester United    | 2-0  
+2023-12-22      | Aston Villa          vs Sheffield United     | 1-1  
+2023-12-21      | Crystal Palace       vs Brighton & Hove Albion | 1-1  
+2023-12-17      | Liverpool            vs Manchester United    | 0-0  
+2023-12-17      | Arsenal              vs Brighton & Hove Albion | 2-0  
+2023-12-17      | Brentford            vs Aston Villa          | 1-2  
+2023-12-17      | West Ham United      vs Wolverhampton        | 3-0  
+2023-12-16      | Burnley              vs Everton              | 0-2  
+2023-12-16      | Chelsea              vs Sheffield United     | 2-0  
+2023-12-16      | Manchester City      vs Crystal Palace       | 2-2  
+2023-12-16      | Newcastle United     vs Fulham               | 3-0  
+2023-12-15      | Nottingham Forest    vs Tottenham Hotspur    | 0-2  
+2023-12-10      | Tottenham Hotspur    vs Newcastle United     | 4-1  
+2023-12-10      | Everton              vs Chelsea              | 2-0  
+2023-12-10      | Fulham               vs West Ham United      | 5-0  
+2023-12-10      | Luton Town           vs Manchester City      | 1-2  
+2023-12-09      | Aston Villa          vs Arsenal              | 1-0  
+2023-12-09      | Brighton & Hove Albion vs Burnley              | 1-1  
+2023-12-09      | Manchester United    vs Bournemouth          | 0-3  
+2023-12-09      | Sheffield United     vs Brentford            | 1-0  
+2023-12-09      | Wolverhampton        vs Nottingham Forest    | 1-1  
+2023-12-09      | Crystal Palace       vs Liverpool            | 1-2  
+2023-12-07      | Tottenham Hotspur    vs West Ham United      | 1-2  
+2023-12-07      | Everton              vs Newcastle United     | 3-0  
+2023-12-06      | Aston Villa          vs Manchester City      | 1-0  
+2023-12-06      | Manchester United    vs Chelsea              | 2-1  
+2023-12-06      | Brighton & Hove Albion vs Brentford            | 2-1  
+2023-12-06      | Crystal Palace       vs Bournemouth          | 0-2  
+2023-12-06      | Fulham               vs Nottingham Forest    | 5-0  
+2023-12-06      | Sheffield United     vs Liverpool            | 0-2  
+2023-12-05      | Luton Town           vs Arsenal              | 3-4  
+2023-12-05      | Wolverhampton        vs Burnley              | 1-0  
+2023-12-03      | Manchester City      vs Tottenham Hotspur    | 3-3  
+2023-12-03      | Bournemouth          vs Aston Villa          | 2-2  
+2023-12-03      | Chelsea              vs Brighton & Hove Albion | 3-2  
+2023-12-03      | Liverpool            vs Fulham               | 4-3  
+2023-12-03      | West Ham United      vs Crystal Palace       | 1-1  
+2023-12-02      | Newcastle United     vs Manchester United    | 1-0  
+2023-12-02      | Nottingham Forest    vs Everton              | 0-1  
+2023-12-02      | Arsenal              vs Wolverhampton        | 2-1  
+2023-12-02      | Brentford            vs Luton Town           | 3-1  
+2023-12-02      | Burnley              vs Sheffield United     | 5-0  
+2023-11-27      | Fulham               vs Wolverhampton        | 3-2  
+2023-11-26      | Everton              vs Manchester United    | 0-3  
+2023-11-26      | Tottenham Hotspur    vs Aston Villa          | 1-2  
+2023-11-25      | Brentford            vs Arsenal              | 0-1  
+2023-11-25      | Burnley              vs West Ham United      | 1-2  
+2023-11-25      | Luton Town           vs Crystal Palace       | 2-1  
+2023-11-25      | Newcastle United     vs Chelsea              | 4-1  
+2023-11-25      | Nottingham Forest    vs Brighton & Hove Albion | 2-3  
+2023-11-25      | Sheffield United     vs Bournemouth          | 1-3  
+2023-11-25      | Manchester City      vs Liverpool            | 1-1  
+2023-11-12      | Chelsea              vs Manchester City      | 4-4  
+2023-11-12      | Aston Villa          vs Fulham               | 3-1  
+2023-11-12      | Brighton & Hove Albion vs Sheffield United     | 1-1  
+2023-11-12      | Liverpool            vs Brentford            | 3-0  
+2023-11-12      | West Ham United      vs Nottingham Forest    | 3-2  
+2023-11-11      | Bournemouth          vs Newcastle United     | 2-0  
+2023-11-11      | Arsenal              vs Burnley              | 3-1  
+2023-11-11      | Crystal Palace       vs Everton              | 2-3  
+2023-11-11      | Manchester United    vs Luton Town           | 1-0  
+2023-11-11      | Wolverhampton        vs Tottenham Hotspur    | 2-1  
+2023-11-06      | Tottenham Hotspur    vs Chelsea              | 1-4  
+2023-11-05      | Luton Town           vs Liverpool            | 1-1  
+2023-11-05      | Nottingham Forest    vs Aston Villa          | 2-0  
+2023-11-04      | Newcastle United     vs Arsenal              | 1-0  
+2023-11-04      | Brentford            vs West Ham United      | 3-2  
+2023-11-04      | Burnley              vs Crystal Palace       | 0-2  
+2023-11-04      | Everton              vs Brighton & Hove Albion | 1-1  
+2023-11-04      | Manchester City      vs Bournemouth          | 6-1  
+2023-11-04      | Sheffield United     vs Wolverhampton        | 2-1  
+2023-11-04      | Fulham               vs Manchester United    | 0-1  
+2023-10-29      | Manchester United    vs Manchester City      | 0-3  
+2023-10-29      | Aston Villa          vs Luton Town           | 3-1  
+2023-10-29      | Brighton & Hove Albion vs Fulham               | 1-1  
+2023-10-29      | Liverpool            vs Nottingham Forest    | 3-0  
+2023-10-29      | West Ham United      vs Everton              | 0-1  
+2023-10-28      | Wolverhampton        vs Newcastle United     | 2-2  
+2023-10-28      | Arsenal              vs Sheffield United     | 5-0  
+2023-10-28      | Bournemouth          vs Burnley              | 2-1  
+2023-10-28      | Chelsea              vs Brentford            | 0-2  
+2023-10-27      | Crystal Palace       vs Tottenham Hotspur    | 1-2  
+2023-10-23      | Tottenham Hotspur    vs Fulham               | 2-0  
+2023-10-22      | Aston Villa          vs West Ham United      | 4-1  
+2023-10-21      | Sheffield United     vs Manchester United    | 1-2  
+2023-10-21      | Chelsea              vs Arsenal              | 2-2  
+2023-10-21      | Bournemouth          vs Wolverhampton        | 1-2  
+2023-10-21      | Brentford            vs Burnley              | 3-0  
+2023-10-21      | Manchester City      vs Brighton & Hove Albion | 2-1  
+2023-10-21      | Newcastle United     vs Crystal Palace       | 4-0  
+2023-10-21      | Nottingham Forest    vs Luton Town           | 2-2  
+2023-10-21      | Liverpool            vs Everton              | 2-0  
+2023-10-08      | Arsenal              vs Manchester City      | 1-0  
+2023-10-08      | Brighton & Hove Albion vs Liverpool            | 2-2  
+2023-10-08      | West Ham United      vs Newcastle United     | 2-2  
+2023-10-08      | Wolverhampton        vs Aston Villa          | 1-1  
+2023-10-07      | Crystal Palace       vs Nottingham Forest    | 0-0  
+2023-10-07      | Burnley              vs Chelsea              | 1-4  
+2023-10-07      | Everton              vs Bournemouth          | 3-0  
+2023-10-07      | Fulham               vs Sheffield United     | 3-1  
+2023-10-07      | Manchester United    vs Brentford            | 2-1  
+2023-10-07      | Luton Town           vs Tottenham Hotspur    | 0-1  
+2023-10-03      | Luton Town           vs Burnley              | 1-2  
+2023-10-02      | Fulham               vs Chelsea              | 0-2  
+2023-10-01      | Nottingham Forest    vs Brentford            | 1-1  
+2023-09-30      | Tottenham Hotspur    vs Liverpool            | 2-1  
+2023-09-30      | Bournemouth          vs Arsenal              | 0-4  
+2023-09-30      | Everton              vs Luton Town           | 1-2  
+2023-09-30      | Manchester United    vs Crystal Palace       | 0-1  
+2023-09-30      | Newcastle United     vs Burnley              | 2-0  
+2023-09-30      | West Ham United      vs Sheffield United     | 2-0  
+2023-09-30      | Wolverhampton        vs Manchester City      | 2-1  
+2023-09-30      | Aston Villa          vs Brighton & Hove Albion | 6-1  
+2023-09-24      | Sheffield United     vs Newcastle United     | 0-8  
+2023-09-24      | Arsenal              vs Tottenham Hotspur    | 2-2  
+2023-09-24      | Brighton & Hove Albion vs Bournemouth          | 3-1  
+2023-09-24      | Chelsea              vs Aston Villa          | 0-1  
+2023-09-24      | Liverpool            vs West Ham United      | 3-1  
+2023-09-23      | Burnley              vs Manchester United    | 0-1  
+2023-09-23      | Brentford            vs Everton              | 1-3  
+2023-09-23      | Crystal Palace       vs Fulham               | 0-0  
+2023-09-23      | Luton Town           vs Wolverhampton        | 1-1  
+2023-09-23      | Manchester City      vs Nottingham Forest    | 2-0  
+2023-09-18      | Nottingham Forest    vs Burnley              | 1-1  
+2023-09-17      | Everton              vs Arsenal              | 0-1  
+2023-09-17      | Bournemouth          vs Chelsea              | 0-0  
+2023-09-16      | Newcastle United     vs Brentford            | 1-0  
+2023-09-16      | Aston Villa          vs Crystal Palace       | 3-1  
+2023-09-16      | Fulham               vs Luton Town           | 1-0  
+2023-09-16      | Manchester United    vs Brighton & Hove Albion | 1-3  
+2023-09-16      | Tottenham Hotspur    vs Sheffield United     | 2-1  
+2023-09-16      | West Ham United      vs Manchester City      | 1-3  
+2023-09-16      | Wolverhampton        vs Liverpool            | 1-3  
+2023-09-03      | Arsenal              vs Manchester United    | 3-1  
+2023-09-03      | Crystal Palace       vs Wolverhampton        | 3-2  
+2023-09-03      | Liverpool            vs Aston Villa          | 3-0  
+2023-09-02      | Brighton & Hove Albion vs Newcastle United     | 3-1  
+2023-09-02      | Brentford            vs Bournemouth          | 2-2  
+2023-09-02      | Burnley              vs Tottenham Hotspur    | 2-5  
+2023-09-02      | Chelsea              vs Nottingham Forest    | 0-1  
+2023-09-02      | Manchester City      vs Fulham               | 5-1  
+2023-09-02      | Sheffield United     vs Everton              | 2-2  
+2023-09-01      | Luton Town           vs West Ham United      | 1-2  
+2023-08-27      | Newcastle United     vs Liverpool            | 1-2  
+2023-08-27      | Burnley              vs Aston Villa          | 1-3  
+2023-08-27      | Sheffield United     vs Manchester City      | 1-2  
+2023-08-26      | Brighton & Hove Albion vs West Ham United      | 1-3  
+2023-08-26      | Arsenal              vs Fulham               | 2-2  
+2023-08-26      | Brentford            vs Crystal Palace       | 1-1  
+2023-08-26      | Everton              vs Wolverhampton        | 0-1  
+2023-08-26      | Manchester United    vs Nottingham Forest    | 3-2  
+2023-08-26      | Bournemouth          vs Tottenham Hotspur    | 0-2  
+2023-08-25      | Chelsea              vs Luton Town           | 3-0  
+2023-08-21      | Crystal Palace       vs Arsenal              | 0-1  
+2023-08-20      | West Ham United      vs Chelsea              | 3-1  
+2023-08-20      | Aston Villa          vs Everton              | 4-0  
+2023-08-19      | Manchester City      vs Newcastle United     | 1-0  
+2023-08-19      | Tottenham Hotspur    vs Manchester United    | 2-0  
+2023-08-19      | Fulham               vs Brentford            | 0-3  
+2023-08-19      | Liverpool            vs Bournemouth          | 3-1  
+2023-08-19      | Wolverhampton        vs Brighton & Hove Albion | 1-4  
+2023-08-18      | Nottingham Forest    vs Sheffield United     | 2-1  
+2023-08-14      | Manchester United    vs Wolverhampton        | 1-0  
+2023-08-13      | Chelsea              vs Liverpool            | 1-1  
+2023-08-13      | Brentford            vs Tottenham Hotspur    | 2-2  
+2023-08-12      | Newcastle United     vs Aston Villa          | 5-1  
+2023-08-12      | Bournemouth          vs West Ham United      | 1-1  
+2023-08-12      | Brighton & Hove Albion vs Luton Town           | 4-1  
+2023-08-12      | Everton              vs Fulham               | 0-1  
+2023-08-12      | Sheffield United     vs Crystal Palace       | 0-1  
+2023-08-12      | Arsenal              vs Nottingham Forest    | 2-1  
+2023-08-11      | Burnley              vs Manchester City      | 0-3  
